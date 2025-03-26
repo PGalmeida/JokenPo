@@ -60,7 +60,7 @@ Um simples e divertido jogo de **Pedra, Papel e Tesoura** (JokenPo) desenvolvido
 
 ## 🎥 Demonstração
 
-![Veja um vídeo de demonstração do APP](https://imgur.com/kd42vfI)](https://imgur.com/kd42vfI.mp4)
+[Veja um vídeo de demonstração do APP](https://imgur.com/kd42vfI)](https://imgur.com/kd42vfI.mp4)
  
 ---
 
